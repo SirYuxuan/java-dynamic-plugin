@@ -1,0 +1,4 @@
+# Project exclude paths
+/core-biz/target/
+/core-sdk/target/
+/prem-plugin/target/

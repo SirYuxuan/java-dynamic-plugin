@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: PluginSimple
+  profiles:
+    include: db
+server:
+  port: 10003
+logging:
+  level:
+    root: info
+    com:
+      yuxuan66:
+        modules: debug
